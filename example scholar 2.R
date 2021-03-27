@@ -76,3 +76,6 @@ if (file.exists('allauthors.Rds'))
 }
 
 allauthors
+
+
+htmlTreeParse
